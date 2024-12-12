@@ -7,4 +7,6 @@ then run:
 ./vcpkg/bootstrap-vcpkg.bat
 mkdir build
 cd build
+cmake ..
+cmake --build . --config Release --parallel 4
 ```
