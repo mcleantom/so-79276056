@@ -1,0 +1,10 @@
+{
+    "name": "so-question",
+    "version-string": "1.0.0",
+    "description": "SO question",
+    "dependencies": [
+      "boost-asio"
+    ],
+    "builtin-baseline": "db4924694eabc161a7fb8eb43f083d0ca55396e2"
+  }
+  
